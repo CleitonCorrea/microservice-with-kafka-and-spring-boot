@@ -1,4 +1,4 @@
-package com.cleitoncorrea.kafka_consumer.config;
+package com.cleitoncorrea.kafka_producer.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;

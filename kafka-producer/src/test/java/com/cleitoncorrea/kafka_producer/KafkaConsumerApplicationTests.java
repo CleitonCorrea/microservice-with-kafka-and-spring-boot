@@ -1,4 +1,4 @@
-package com.cleitoncorrea.kafka_consumer;
+package com.cleitoncorrea.kafka_producer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
