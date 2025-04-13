@@ -1,6 +1,6 @@
-package com.cleitoncorrea.kafka_producer.config;
+package com.cleitoncorrea.kafka_consumer.config;
 
-import com.cleitoncorrea.kafka_producer.model.TransactionMessage;
+import com.cleitoncorrea.kafka_consumer.model.TransactionMessage;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.UUIDSerializer;
 import org.springframework.context.annotation.Bean;

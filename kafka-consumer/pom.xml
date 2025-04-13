@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cleitoncorrea</groupId>
-	<artifactId>kafka-consumer</artifactId>
+	<artifactId>Kafka-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kafka-consumer</name>
-	<description>Projeto de microserviços com Kafka. Este projeto é o nosso Gateway da nossa aplicação que ira consumir os dados do kafka</description>
+	<name>Kafka-consumer</name>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -32,7 +32,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.kafka</groupId>
