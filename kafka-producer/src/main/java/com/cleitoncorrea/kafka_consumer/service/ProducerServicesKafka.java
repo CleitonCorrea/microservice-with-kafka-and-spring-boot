@@ -1,6 +1,7 @@
-package com.cleitoncorrea.kafka_producer.service;
+package com.cleitoncorrea.kafka_consumer.service;
 
-import com.cleitoncorrea.kafka_producer.model.TransactionMessage;
+import com.cleitoncorrea.kafka_consumer.model.TransactionMessage;
+import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
