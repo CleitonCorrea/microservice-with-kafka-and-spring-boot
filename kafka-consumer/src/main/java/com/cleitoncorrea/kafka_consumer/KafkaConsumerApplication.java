@@ -1,4 +1,4 @@
-package com.cleitoncorrea.Kafka_consumer;
+package com.cleitoncorrea.kafka_consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

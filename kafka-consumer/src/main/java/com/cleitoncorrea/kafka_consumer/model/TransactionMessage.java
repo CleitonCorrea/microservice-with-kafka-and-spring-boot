@@ -1,4 +1,4 @@
-package com.cleitoncorrea.Kafka_consumer.model;
+package com.cleitoncorrea.kafka_consumer.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
